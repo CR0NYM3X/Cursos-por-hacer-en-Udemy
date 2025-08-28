@@ -20,6 +20,7 @@ SQL Server Security Best Practices: Protect Your Data -> https://www.udemy.com/c
 Advanced SQL Server High Availability & Disaster Recovery -> https://www.udemy.com/course/advanced-sql-server-high-availability-disaster-recovery/?couponCode=MT260825C
 
 Learn Microsoft SQL Server AlwaysOn HA Solution -> https://www.udemy.com/course/microsoft-sql-server-alwayson-ha-solution/?couponCode=MT260825C
+
 Mastering SQL Server Replication -> https://www.udemy.com/course/mastering-sql-server-replication/?couponCode=MT260825C
 
 Microsoft SQL Server Failover Cluster -> https://www.udemy.com/course/microsoft-sql-server-failover-cluster/?couponCode=MT260825C
@@ -47,7 +48,9 @@ PostgreSQL with pgBackRest - installation, setup and backup -> https://www.udemy
 Postgres Cluster: Master Patroni-Managed Clusters -> https://www.udemy.com/course/postgresclusterpatroni/?couponCode=MT260825C
 
 PostgreSQL Database Administration on Windows/Linux- Part 1 -> https://www.udemy.com/course/postgresql-v12-database-administration-on-windows-and-linux/
+
 PostgreSQL Database Administration on Windows/Linux- Part 2 -> https://www.udemy.com/course/postgresql-v12-database-administration-on-winlinux-part-2/
+
 PostgreSQL Database Administration on Win/Linux-Part 3 (PT) -> https://www.udemy.com/course/postgresql-database-administration-on-winlinux-part-3/
 
 
@@ -56,41 +59,51 @@ PostgreSQL Database Administration on Win/Linux-Part 3 (PT) -> https://www.udemy
 Curso de instalación y configuración de Windows Server -> https://www.udemy.com/course/curso-instalacion-y-configuracion-de-windows-server-2016/
 
 Curso de administración de Active Directory Domain Services -> https://www.udemy.com/course/administracion-de-active-directory-por-gui-y-powershell/
-Active Directory: Securing Active Directory Domain Services  -> https://www.udemy.com/course/active-directory-securing-active-directory-domain-services/
-Curso de Hardening de Active Directory -> https://www.udemy.com/course/curso-de-hardening-de-active-directory/
-Active Directory - Directorio Activo: de cero a arquitecto -> https://www.udemy.com/course/active-directory-directorio-activo-de-cero-a-arquitecto/
-Securización de entornos Windows Server, Certificación -> https://www.udemy.com/course/securizacion-de-entornos-windows-server-certificacion/
 
+Active Directory: Securing Active Directory Domain Services  -> https://www.udemy.com/course/active-directory-securing-active-directory-domain-services/
+
+Curso de Hardening de Active Directory -> https://www.udemy.com/course/curso-de-hardening-de-active-directory/
+
+Active Directory - Directorio Activo: de cero a arquitecto -> https://www.udemy.com/course/active-directory-directorio-activo-de-cero-a-arquitecto/
+
+Securización de entornos Windows Server, Certificación -> https://www.udemy.com/course/securizacion-de-entornos-windows-server-certificacion/
 
 Kerberos authentication in Windows domains -> https://www.udemy.com/course/kerberos-authentication-protocol-in-windows-domains/
 
 
 ***************** AWS  *****************
 Amazon AWS al completo -> https://www.udemy.com/course/amazon-aws-al-completo/
+
 [Español] AWS Certified Cloud Practitioner (CLF-C02) - 2025 ->  https://www.udemy.com/course/certified-cloud-practitioner-aws/
 
 ***************** GCP  *****************
 [Español] Google Cloud Certified Associate Cloud Engineer -> https://www.udemy.com/course/google-cloud-certified-associate-cloud-engineer-2021-espanol/
+
+
 Google Cloud Platform - Fundamentos Laboratorios y Practicas -> https://www.udemy.com/course/google-cloud-platform-fundamentos-laboratorios-practicas/
+
+
 Fundamentos de Google Cloud Platform con prácticas -> https://www.udemy.com/course/fundamentos-de-google-cloud-platform/?couponCode=MT260825C
 
 
 
 ***************** MYSQL  *****************
 Galera Cluster and MariaDB MySQL Replication -> https://www.udemy.com/course/galera-replication/?couponCode=MT260825C
+
 Galera Cluster para Mariadb y Mysql -> https://www.udemy.com/course/galera-cluster-para-mariadb-y-mysql/
-
-
   
 
 ********************* Monitoreo  *********************
 Monitorización distribuida con Icinga2 de cero a experto. -> https://www.udemy.com/course/monitorizacion-distribuida-con-icinga2-de-cero-a-experto/?couponCode=MT260825A
+
 Nagios: El estándar en monitoreo de infraestructura -> https://www.udemy.com/course/monitoreo-con-nagios/
+
 Curso de Zabbix completo, desde 0 a experto -> https://www.udemy.com/course/curso-de-zabbix-completo-desde-0-a-experto/
 
 
 ********************* BALANCEO DE CARGA  *********************
 Master Load Balancing with HAProxy -> https://www.udemy.com/course/master-load-balancing-with-haproxy/
+
 HAProxy for Beginners -> https://www.udemy.com/course/haproxy-a/
  
 
