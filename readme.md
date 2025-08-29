@@ -1,3 +1,15 @@
+# ******************** Diseño y planificación  ********************
+
+Diseño de Bases de Datos Relacionales [2025] -> https://www.udemy.com/course/diseno-e-implementacion-de-bases-de-datos-relacionales/?couponCode=MT260825A#instructor-1
+
+Diseño de Base de Datos con PostgreSQL y MySQL -> https://www.udemy.com/course/administracion-de-base-de-datos-con-postgresql/?couponCode=MT260825A
+
+Diseño de Bases de Datos Relacionales -> https://www.udemy.com/course/diseno-de-bases-de-datos-relacionales/?couponCode=MT260825A
+
+# ******************** ETL ********************
+SQL Server Integration Services (SSIS) desde 0 hasta Experto -> https://www.udemy.com/course/ssis-desde-0-hasta-experto/
+
+
 # ***************** SQL SERVER ********************
 
 SQL Server High Availability and Disaster Recovery (HA/DR) -> https://www.udemy.com/course/sqlserverhadrdeepdive/
@@ -30,6 +42,11 @@ MS SQL Server Full course with Backup, Recovery and Cluster -> https://www.udemy
 Implementing Windows Server 2019 High Availability -> https://www.udemy.com/course/implementing-windows-server-2019-high-availability/?couponCode=MT260825C
 
 Learn Realtime Microsoft Sql Server DBA 2022 Part2 -> https://www.udemy.com/course/become-a-production-dba-with-microsoft-sql-server-2022-part2/
+
+Administración Avanzada Con Sql Server 2008-2019 -> https://www.udemy.com/course/administracion-avanzada-con-sql-server/?couponCode=MT260825A
+
+SQL Server 2019: Laboratorio Log Shipping paso a paso -> https://www.udemy.com/course/sql-server-2019-laboratorio-log-shipping-paso-a-paso/?couponCode=MT260825A
+
 
 ---
 
@@ -100,7 +117,50 @@ Galera Cluster and MariaDB MySQL Replication -> https://www.udemy.com/course/gal
 
 Galera Cluster para Mariadb y Mysql -> https://www.udemy.com/course/galera-cluster-para-mariadb-y-mysql/
 
+MySQL Master - de Avanzado a Experto -> https://www.udemy.com/course/mysql-master/?couponCode=MT260825A
+
+SQL para administración de Bases de Datos con MySQL -> https://www.udemy.com/course/sql-para-administracion-de-bases-de-datos-con-mysql/?couponCode=MT260825A
+
+Administrador de Base De Datos con MySQL 8 -> https://www.udemy.com/course/dba-mysql8/?couponCode=MT260825A
+
+
+Curso MySQL de cero hasta experto Ver 5.7 y 8 Linux Act 2024 ->  https://www.udemy.com/course/curso-mysql-desde-cero-hasta-experto-todos-los-niveles/?couponCode=MT260825A
+
+Ciberseguridad en base de datos con MySQL -> https://www.udemy.com/course/ciberseguridad-mysql/?couponCode=MT260825A
+
+Curso SQL: De Principiante a Avanzado -> https://www.udemy.com/course/aprende-sql-desde-cero-curso-con-mas-de-100-ejercicios/?couponCode=MT260825A
+
 ---
+
+# ***************** MONGODB  *****************
+
+Guía completa MongoDB: Aprende desde Cero hasta Experto ->  https://www.udemy.com/course/guia-completa-mongodb/?couponCode=MT260825A
+
+MongoDB : A Complete Database Administration Course -> https://www.udemy.com/course/mongodb-a-complete-course-on-database-administration/?couponCode=MT260825A
+
+MongoDB Administration -> https://www.udemy.com/course/mongodb-administration-e/?couponCode=MT260825A
+
+---
+
+# ***************** ORACLE  *****************
+
+Oracle: Administración de Base de Datos -> https://www.udemy.com/course/oracle-administracion-de-base-de-datos/?couponCode=MT260825A
+
+Oracle DBA 21c Administrador Linux SQL - EC0 + CERTIFICADO -> https://www.udemy.com/course/curso-administrador-base-de-datos-oracle-dba-oca-y-ocp-21c/
+
+Aprende Oracle PL/SQL desde Cero -> https://www.udemy.com/course/aprende-oracle-plsql-12c-desde-cero/?couponCode=MT260825A
+
+Curso completo de Oracle PL/SQL "De Cero a Avanzado" ->  https://www.udemy.com/course/oracle-plsql-de-cero-a-avanzado/?couponCode=MT260825A
+
+Oracle PL/SQL avanzado -> https://www.udemy.com/course/aprende-oracle-plsql-avanzado/
+
+Curso de Oracle básico desde cero (SQL y PL/SQL) -> https://www.udemy.com/course/curso-de-oracle-basico-desde-cero-sql-y-plsql/ 
+
+Oracle SQL: domina lo necesario para el trabajo -> https://www.udemy.com/course/oracle-sql-domina-lo-necesario/ 
+
+Aprende Oracle SQL desde cero -> https://www.udemy.com/course/aprende-oracle-sql-desde-cero/ 
+
+PROGRAMACIÓN DE BASE DE DATOS ORACLE CON PL/SQL -> https://www.udemy.com/course/lenguaje-plsql/
 
 
 # ********************* Monitoreo  *********************
@@ -120,3 +180,11 @@ HAProxy for Beginners -> https://www.udemy.com/course/haproxy-a/
  
 
 keepalived
+
+
+
+
+# *********************  OTROS   *********************
+
+ 
+Experto SQL Server y Replicación Multiplataform -> https://www.udemy.com/course/experto-sql-server-y-replicacion-multiplataforma/?couponCode=MT260825C
