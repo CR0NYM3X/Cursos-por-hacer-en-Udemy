@@ -1,4 +1,4 @@
-***************** SQL SERVER ********************
+# ***************** SQL SERVER ********************
 
 SQL Server High Availability and Disaster Recovery (HA/DR) -> https://www.udemy.com/course/sqlserverhadrdeepdive/
 
@@ -31,8 +31,9 @@ Implementing Windows Server 2019 High Availability -> https://www.udemy.com/cour
 
 Learn Realtime Microsoft Sql Server DBA 2022 Part2 -> https://www.udemy.com/course/become-a-production-dba-with-microsoft-sql-server-2022-part2/
 
+---
 
-***************** POSTGRESQL ********************
+# ***************** POSTGRESQL ********************
 
 Administración PostgreSQL: Técnicas de Backup y Recuperación -> https://www.udemy.com/course/administracion-postgresql-tecnicas-de-backup-y-recuperacion/
 
@@ -53,9 +54,10 @@ PostgreSQL Database Administration on Windows/Linux- Part 2 -> https://www.udemy
 
 PostgreSQL Database Administration on Win/Linux-Part 3 (PT) -> https://www.udemy.com/course/postgresql-database-administration-on-winlinux-part-3/
 
+---
 
 
-***************** Windows Server *****************
+# ***************** Windows Server *****************
 Curso de instalación y configuración de Windows Server -> https://www.udemy.com/course/curso-instalacion-y-configuracion-de-windows-server-2016/
 
 Curso de administración de Active Directory Domain Services -> https://www.udemy.com/course/administracion-de-active-directory-por-gui-y-powershell/
@@ -70,13 +72,18 @@ Securización de entornos Windows Server, Certificación -> https://www.udemy.co
 
 Kerberos authentication in Windows domains -> https://www.udemy.com/course/kerberos-authentication-protocol-in-windows-domains/
 
+---
 
-***************** AWS  *****************
+
+# ***************** AWS  *****************
 Amazon AWS al completo -> https://www.udemy.com/course/amazon-aws-al-completo/
 
 [Español] AWS Certified Cloud Practitioner (CLF-C02) - 2025 ->  https://www.udemy.com/course/certified-cloud-practitioner-aws/
 
-***************** GCP  *****************
+---
+
+
+# ***************** GCP  *****************
 [Español] Google Cloud Certified Associate Cloud Engineer -> https://www.udemy.com/course/google-cloud-certified-associate-cloud-engineer-2021-espanol/
 
 
@@ -85,23 +92,28 @@ Google Cloud Platform - Fundamentos Laboratorios y Practicas -> https://www.udem
 
 Fundamentos de Google Cloud Platform con prácticas -> https://www.udemy.com/course/fundamentos-de-google-cloud-platform/?couponCode=MT260825C
 
+---
 
 
-***************** MYSQL  *****************
+# ***************** MYSQL  *****************
 Galera Cluster and MariaDB MySQL Replication -> https://www.udemy.com/course/galera-replication/?couponCode=MT260825C
 
 Galera Cluster para Mariadb y Mysql -> https://www.udemy.com/course/galera-cluster-para-mariadb-y-mysql/
-  
 
-********************* Monitoreo  *********************
+---
+
+
+# ********************* Monitoreo  *********************
 Monitorización distribuida con Icinga2 de cero a experto. -> https://www.udemy.com/course/monitorizacion-distribuida-con-icinga2-de-cero-a-experto/?couponCode=MT260825A
 
 Nagios: El estándar en monitoreo de infraestructura -> https://www.udemy.com/course/monitoreo-con-nagios/
 
 Curso de Zabbix completo, desde 0 a experto -> https://www.udemy.com/course/curso-de-zabbix-completo-desde-0-a-experto/
 
+---
 
-********************* BALANCEO DE CARGA  *********************
+
+# ********************* BALANCEO DE CARGA  *********************
 Master Load Balancing with HAProxy -> https://www.udemy.com/course/master-load-balancing-with-haproxy/
 
 HAProxy for Beginners -> https://www.udemy.com/course/haproxy-a/
