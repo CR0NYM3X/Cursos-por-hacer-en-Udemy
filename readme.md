@@ -94,6 +94,8 @@ Kerberos authentication in Windows domains -> https://www.udemy.com/course/kerbe
 
 
 # ***************** AWS  *****************
+[Español] AWS Certified Data Engineer Associate (DEA-C01) -> https://www.udemy.com/course/aws-data-engineer-associate/
+
 Amazon AWS al completo -> https://www.udemy.com/course/amazon-aws-al-completo/
 
 [Español] AWS Certified Cloud Practitioner (CLF-C02) - 2025 ->  https://www.udemy.com/course/certified-cloud-practitioner-aws/
@@ -172,6 +174,21 @@ Nagios: El estándar en monitoreo de infraestructura -> https://www.udemy.com/co
 Curso de Zabbix completo, desde 0 a experto -> https://www.udemy.com/course/curso-de-zabbix-completo-desde-0-a-experto/
 
 ---
+
+
+# ********************* ETL   *********************
+
+ETL Data Testing: Todo lo que necesitás saber -> https://www.udemy.com/course/etl-data-testing-todo-lo-que-necesitas-saber/
+ 
+Data Warehouse - The Ultimate Guide -> https://www.udemy.com/course/data-warehouse-the-ultimate-guide/
+
+
+Data Warehouse Fundamentals for Beginners -> https://www.udemy.com/course/data-warehouse-fundamentals-for-beginners/
+
+Learn ETL Testing & Data Warehouse fundamentals -> https://www.udemy.com/course/etl-testing-data-warehouse-fundamentals/
+
+
+Diseño e Implementación de DataWarehouse con Sql Server 2019 -> https://www.udemy.com/course/diseno-e-implementacion-de-datawarehouse-con-sql-server-2019/
 
 
 # ********************* BALANCEO DE CARGA  *********************
