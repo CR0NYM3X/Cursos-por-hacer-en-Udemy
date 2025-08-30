@@ -70,6 +70,8 @@ PostgreSQL Database Administration on Windows/Linux- Part 2 -> https://www.udemy
 
 PostgreSQL Database Administration on Win/Linux-Part 3 (PT) -> https://www.udemy.com/course/postgresql-database-administration-on-winlinux-part-3/
 
+Postgres Cluster: Master Patroni-Managed Clusters -> https://www.udemy.com/course/postgresclusterpatroni/?couponCode=PMNVD2525
+
 ---
 
 
