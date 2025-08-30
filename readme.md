@@ -4,7 +4,8 @@ Diseño de Bases de Datos Relacionales [2025] -> https://www.udemy.com/course/di
 
 Diseño de Base de Datos con PostgreSQL y MySQL -> https://www.udemy.com/course/administracion-de-base-de-datos-con-postgresql/?couponCode=MT260825A
 
-Diseño de Bases de Datos Relacionales -> https://www.udemy.com/course/diseno-de-bases-de-datos-relacionales/?couponCode=MT260825A
+Diseño de Bases de Datos Relacionales -> https://www.udemy.com/course/diseno-de-bases-de-datos-relacionales/
+ 
 
 # ******************** ETL ********************
 SQL Server Integration Services (SSIS) desde 0 hasta Experto -> https://www.udemy.com/course/ssis-desde-0-hasta-experto/
