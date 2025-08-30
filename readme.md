@@ -8,9 +8,6 @@ Diseño de Bases de Datos Relacionales -> https://www.udemy.com/course/diseno-de
 
 Fundamentos para el diseño de Bases de Datos Relacionales -> https://www.udemy.com/course/fundamentos-para-el-diseno-de-base-de-datos-relacionales/
 
-# ******************** ETL ********************
-SQL Server Integration Services (SSIS) desde 0 hasta Experto -> https://www.udemy.com/course/ssis-desde-0-hasta-experto/
-
 
 # ***************** SQL SERVER ********************
 
@@ -191,6 +188,8 @@ Learn ETL Testing & Data Warehouse fundamentals -> https://www.udemy.com/course/
 
 Diseño e Implementación de DataWarehouse con Sql Server 2019 -> https://www.udemy.com/course/diseno-e-implementacion-de-datawarehouse-con-sql-server-2019/
 
+
+SQL Server Integration Services (SSIS) desde 0 hasta Experto -> https://www.udemy.com/course/ssis-desde-0-hasta-experto/
 
 # ********************* BALANCEO DE CARGA  *********************
 Master Load Balancing with HAProxy -> https://www.udemy.com/course/master-load-balancing-with-haproxy/
