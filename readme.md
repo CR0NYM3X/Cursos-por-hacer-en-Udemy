@@ -205,5 +205,10 @@ keepalived
 
 # *********************  OTROS   *********************
 
+Data Governance: Los Fundamentos para el Gobierno del Dato -> https://www.udemy.com/course/data-governance-en-pildoras/?couponCode=PMNVD2525
  
 Experto SQL Server y Replicación Multiplataform -> https://www.udemy.com/course/experto-sql-server-y-replicacion-multiplataforma/?couponCode=MT260825C
+
+
+
+
