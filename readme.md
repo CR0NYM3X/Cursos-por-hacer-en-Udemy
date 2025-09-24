@@ -10,6 +10,7 @@ Fundamentos para el diseño de Bases de Datos Relacionales -> https://www.udemy.
 
 
 # ***************** SQL SERVER ********************
+https://www.udemy.com/course/sql-server-2016-laboratorio-always-on-desde-cero/?couponCode=MT250923G6
 
 SQL Server High Availability and Disaster Recovery (HA/DR) -> https://www.udemy.com/course/sqlserverhadrdeepdive/
 
