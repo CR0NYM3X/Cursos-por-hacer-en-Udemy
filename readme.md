@@ -127,6 +127,16 @@ Fundamentos de Google Cloud Platform con prácticas -> https://www.udemy.com/cou
 ---
 
 
+# ***************** Azure  *****************
+
+Curso de Microsoft Azure Fundamentals AZ-900 -> https://www.udemy.com/course/certified-microsoft-azure-fundamentals/?couponCode=KEEPLEARNING
+
+Exámenes de práctica | Microsoft Azure Fundamentals AZ-900 -> https://www.udemy.com/course/examenes-microsoft-azure-fundamentals/?couponCode=KEEPLEARNING
+
+Exámenes de Práctica AZ-900 Azure Fundamentals ESPAÑOL 2025 -> https://www.udemy.com/course/ms-azure-fundaments-az-900-test-explicados-en-espanol-2024/?couponCode=KEEPLEARNING
+
+
+---
 # ***************** MYSQL  *****************
 Galera Cluster and MariaDB MySQL Replication -> https://www.udemy.com/course/galera-replication/?couponCode=MT260825C
 
