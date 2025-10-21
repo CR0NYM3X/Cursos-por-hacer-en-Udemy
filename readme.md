@@ -48,6 +48,17 @@ Administración Avanzada Con Sql Server 2008-2019 -> https://www.udemy.com/cours
 SQL Server 2019: Laboratorio Log Shipping paso a paso -> https://www.udemy.com/course/sql-server-2019-laboratorio-log-shipping-paso-a-paso/?couponCode=MT260825A
 
 
+Administración de Base de Datos Con SQL Server -> https://www.udemy.com/course/administracion-de-base-de-datos-con-sql-server/
+Máster en SQL Server: Desde Cero a Nivel Profesional [2025] -> https://www.udemy.com/course/master-sql-server/?couponCode=MT251020G3
+SQL Server: Programación Avanzada 2025 -> https://www.udemy.com/course/sql-programacion-avanzada/?couponCode=MT251020G3
+Optimización de Consultas con Sql Server 2008-2019 -> https://www.udemy.com/course/optimizacion-de-consultas-con-sql-server/?couponCode=MT251020G3 
+SQL Server - Curso completo - de 0 a Avanzado [2024] -> https://www.udemy.com/course/sql-server-curso-completo/?couponCode=MT251020G3
+
+
+Administración SQL Server: Técnicas de Backup y Recuperación -> https://www.udemy.com/course/administracion-sql-server-tecnicas-de-backup-y-recuperacion/?couponCode=MT251020G3
+
+Base de datos con SQL Server administra y crea -> https://www.udemy.com/course/database-sql-yoselerendon/?couponCode=MT251020G3
+
 ---
 
 # ***************** POSTGRESQL ********************
